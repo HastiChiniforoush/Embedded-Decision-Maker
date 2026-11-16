@@ -122,5 +122,20 @@ Programming the ATmega328P microcontroller using a USBasp programmer.
 
 ![USBasp Programmer](images/programmer.jpg)
 
+
+## Project Files
+
+### Hardware Design
+- [Electronic Schematic (PDF)](hardware/Schematic-Design.pdf)
+- [PCB Layout (PDF)](hardware/PCB-Design.pdf)
+
+### Embedded Firmware
+- [ATmega328P Firmware (C)](firmware/Decision-Maker.c)
+
+### Project Documentation
+The repository includes photographs of the PCB design,
+manufacturing, assembly, and programming process.
+
+
 Author / technical implementation: Hasti Chiniforoush
 Institution: Rhine-Waal University of Applied Sciences, Germany
