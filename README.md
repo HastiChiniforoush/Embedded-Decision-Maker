@@ -78,5 +78,49 @@ Potential future improvements
 - Recheck RGB LED package pinout and footprint to restore full-color output
 - Provide a standardized in-circuit programming connector
 - Improve power consumption and expand the decision options
+
+
+## Project Gallery
+
+### 1. PCB Design
+
+3D visualization of the custom-designed PCB in KiCad.
+
+![3D PCB Design](images/3d-view-KiCAD.jpg)
+
+### 2. Fabricated and Assembled PCB
+
+Front side of the PCB:
+
+![PCB Front View](images/front-view.jpg)
+
+Back side of the PCB:
+
+![PCB Back View](images/back-view.jpg)
+
+### 3. PCB Manufacturing and Assembly
+
+**Solder Paste Application**
+
+![Solder Paste Dispensing](images/solder-paste-dispensing-machine.jpg)
+
+**Automated Component Placement**
+
+![Pick and Place Machine](images/pick-and-place-machine.jpg)
+
+**Manual Soldering and Inspection**
+
+![Microscope Soldering](images/soldering-using-microscope.jpg)
+
+### 4. Firmware Programming
+
+Programming the ATmega328P microcontroller using a USBasp programmer.
+
+![Firmware Programming](images/flashing-the-firmware.jpg)
+
+**Programming Hardware**
+
+![USBasp Programmer](images/programmer.jpg)
+
 Author / technical implementation: Hasti Chiniforoush
 Institution: Rhine-Waal University of Applied Sciences, Germany
